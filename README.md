@@ -11,6 +11,6 @@ They were ripped from really old __games__, from __CDs__, from other amateur __m
 ⚖️ Legal
 ---------
 
-Licensed under the Creative Commons Zero Universal license.
+Licensed under the Creative Commons Zero 1.0 Universal license.
 
-Even though content was copied, it should fall under fair use policy, since the quality is rather low, and it is no competition to the sources the sounds came from.
+Even though content was copied, it should fall under fair use policy, since the quality is rather low, and should have no consequences for the original makers.

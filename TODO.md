@@ -92,3 +92,9 @@ Alternatives:
 
 - Target .NET 7 in the csproj files after all.
 - Use a different DevOps build task to targeting .NET 7 specifically (trying to follow ChatGPT's tip).
+
+
+2023-04-11
+----------
+
+Rename or categorize?

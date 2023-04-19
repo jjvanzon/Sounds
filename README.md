@@ -5,9 +5,9 @@
 
 Samples used in 1990's amateur computer music projects.
 
-They were ripped from really old __games__, from __CDs__, from other amateur __music projects__, __wave table__ synths, __recorded__, or __software generated__ with my own experimental programs.
+Ripped from really old __games__, from __CDs__, other amateur __music projects__, __wave table__ synths, __recorded__ myself, or __generated__ with my own experimental software programs.
 
-I am organizing the sounds into folders as we speak. Without reorganization its usability it is hard to find the right samples for my music projects.
+I am organizing the sounds into folders as we speak. Without reorganization it is hard to find the right samples for my music projects.
 
 
 ⚖️ Legal
@@ -15,4 +15,5 @@ I am organizing the sounds into folders as we speak. Without reorganization its 
 
 Licensed under the Creative Commons Zero 1.0 Universal license.
 
-Even though content was copied, it should fall under fair use policy, since the quality is rather low, and should have no consequences for the original makers.
+Most samples were 'ripped', but I am claiming it's 'fair use'.
+Quality is rather low, and it should have no consequences for the original authors.

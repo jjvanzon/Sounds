@@ -5,6 +5,7 @@ TODO
 
 - [Main Outlines](#main-outlines)
 - [2023-05-14 TODO](#2023-05-14-todo)
+- [2023-05-14 Brainstorm Doubts](#2023-05-14-brainstorm-doubts)
 - [WAV conversion options](#wav-conversion-options)
 - [RAW to WAV Utility](#raw-to-wav-utility)
 
@@ -45,7 +46,12 @@ Handing 8-bit and 16-bit in the tracker programs is not very easy.
 - [ ] ~ WIND\FLUTE
 - [ ] ~ MELODY
 
-  
+
+2023-05-14 Brainstorm Doubts
+----------------------------
+
+Ambiguity between acoustic, synth and generated sounds of the same type of instrument.
+
 
 WAV conversion options
 -----------------------

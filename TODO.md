@@ -48,9 +48,12 @@ Handing 8-bit and 16-bit in the tracker programs is not very easy.
     - [x] WIND\FLUTE
     - [x] MELODY
 - [ ] Naming:
-    - [ ] Rename WAV's auto-converting to IT.
-    - [ ] Variations letters A, B, C instead of numbers 1, 2, 3.
-    - [ ] 
+    - [ ] .. Rename WAV's converting to IT.
+    - [ ] .. Variations A, B, C instead of 1, 2, 3.
+    - [ ] .. SB prefix removal
+    - [ ] .. Renaming files:
+        - [ ] __WAS AT: ELECGUIT__
+    - [ ] Internal renames
 
 2023-05-14 Brainstorm Doubts
 ----------------------------

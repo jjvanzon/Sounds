@@ -40,12 +40,13 @@ Handing 8-bit and 16-bit in the tracker programs is not very easy.
 2023-05-14 TODO
 ---------------
 
-- [x] WIND\BRASS
-- [x] EFFECTS\MECHANIC
-- [x] ELECTRNC\SYNTH
-- [x] ~~ELECTRNC\GENERATD~~
-- [x] WIND\FLUTE
-- [ ] .. MELODY
+- [x] Most rework needed:
+    - [x] WIND\BRASS
+    - [x] EFFECTS\MECHANIC
+    - [x] ELECTRNC\SYNTH
+    - [x] ~~ELECTRNC\GENERATD~~
+    - [x] WIND\FLUTE
+    - [x] MELODY
 
 
 2023-05-14 Brainstorm Doubts

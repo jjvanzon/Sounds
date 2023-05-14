@@ -2,18 +2,19 @@ TODO
 ====
 
 Handing 8-bit and 16-bit in the tracker programs is not very easy.
-Trying it for one folder (ELECTRFX).
 
-- [x] Sensible names
-- [x]  Naming scheme (8-bit, 16-bit, mono, stereo)
-    - 8: 8-bit
-    - 16: 16-bit
-    - 8s: 8-bit stereo
-    - 16s: 16-bit stereo
-    - _ prefix against ambiguity (e.g. THING2_8)
+- [ ] ..Sensible names
+- [ ] .. Naming scheme (8-bit, 16-bit, mono, stereo)
+    - [ ] 8: 8-bit
+    - [ ] 16: 16-bit
+    - [ ] S: stereo
+    - [ ] L: left channel
+    - [ ] R: right channel
+    - [ ] A, B, C: variations
+    - [ ] _ prefix against ambiguity (e.g. THING2_8)
 -  [ ] Formats:
-    - [x] RAW
-    - [x] IT sample
+    - [ ] .. RAW
+    - [ ] .. IT sample
     - [ ] .. WAV
     - [ ] FT sample
     - [ ] ~ FT instrument
@@ -26,9 +27,20 @@ Trying it for one folder (ELECTRFX).
 WAV is my best bet.
 It is usable in IT, FT and ST?
 
------
 
-WAV conversion options:
+2023-05-14 TODO
+---------------
+
+- [ ] EFFECTS\MECHANIC
+- [ ] ELECTRNC\GENERATD
+- [ ] ELECTRNC\SYNTH
+- [ ] WIND\BRASS
+- [ ] ~ MELODY
+- [ ] ~ WIND\FLUTE
+  
+
+WAV conversion options
+-----------------------
 
 - WAV16STJ.EXE:
     - Downside: Only does 16 bit it seems.
@@ -92,9 +104,3 @@ Alternatives:
 
 - Target .NET 7 in the csproj files after all.
 - Use a different DevOps build task to targeting .NET 7 specifically (trying to follow ChatGPT's tip).
-
-
-2023-04-11
-----------
-
-Rename or categorize?

@@ -1,6 +1,16 @@
 TODO
 ====
 
+<h2>Contents</h2>
+
+- [Main Outlines](#main-outlines)
+- [2023-05-14 TODO](#2023-05-14-todo)
+- [WAV conversion options](#wav-conversion-options)
+- [RAW to WAV Utility](#raw-to-wav-utility)
+
+Main Outlines
+-------------
+
 Handing 8-bit and 16-bit in the tracker programs is not very easy.
 
 - [ ] ..Sensible names
@@ -31,10 +41,10 @@ It is usable in IT, FT and ST?
 2023-05-14 TODO
 ---------------
 
+- [x] WIND\BRASS
 - [ ] EFFECTS\MECHANIC
 - [ ] ELECTRNC\GENERATD
 - [ ] ELECTRNC\SYNTH
-- [ ] WIND\BRASS
 - [ ] ~ MELODY
 - [ ] ~ WIND\FLUTE
   

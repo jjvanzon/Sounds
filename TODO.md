@@ -40,10 +40,11 @@ Handing 8-bit and 16-bit in the tracker programs is not very easy.
 
 - [x] WIND\BRASS
 - [x] EFFECTS\MECHANIC
-- [ ] .. ELECTRNC\SYNTH
-- [ ] ELECTRNC\GENERATD
-- [ ] ~ MELODY
+- [x] ELECTRNC\SYNTH
+- [x] ~~ELECTRNC\GENERATD~~
 - [ ] ~ WIND\FLUTE
+- [ ] ~ MELODY
+
   
 
 WAV conversion options

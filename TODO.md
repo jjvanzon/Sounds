@@ -13,7 +13,7 @@ Main Outlines
 
 Handing 8-bit and 16-bit in the tracker programs is not very easy.
 
-- [ ] ..Sensible names
+- [ ] .. Sensible names
 - [ ] .. Naming scheme (8-bit, 16-bit, mono, stereo)
     - [ ] 8: 8-bit
     - [ ] 16: 16-bit
@@ -23,19 +23,14 @@ Handing 8-bit and 16-bit in the tracker programs is not very easy.
     - [ ] A, B, C: variations
     - [ ] _ prefix against ambiguity (e.g. THING2_8)
 -  [ ] Formats:
-    - [ ] .. RAW
     - [ ] .. IT sample
-    - [ ] .. WAV
-    - [ ] FT sample
+    - [ ] ~ RAW
+    - [ ] ~ WAV
+    - [ ] ~ FT sample
     - [ ] ~ FT instrument
     - [ ] ~ IT instrument
     - [ ] ~ ST sample
     - [ ] ~ ST instrument
-
------
-
-WAV is my best bet.
-It is usable in IT, FT and ST?
 
 
 2023-05-14 TODO

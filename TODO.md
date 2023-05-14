@@ -47,16 +47,19 @@ Handing 8-bit and 16-bit in the tracker programs is not very easy.
     - [x] ~~ELECTRNC\GENERATD~~
     - [x] WIND\FLUTE
     - [x] MELODY
-
+- [ ] Naming:
+    - [ ] Rename WAV's auto-converting to IT.
+    - [ ] Variations letters A, B, C instead of numbers 1, 2, 3.
+    - [ ] 
 
 2023-05-14 Brainstorm Doubts
 ----------------------------
 
-Ambiguity between acoustic, synth and generated sounds of the same type of instrument.
+Ambiguity between acoustic, synth and generated sounds of the same type of instrument. I guess the character of the sound matters.
 
 
 WAV conversion options
------------------------
+----------------------
 
 - WAV16STJ.EXE:
     - Downside: Only does 16 bit it seems.

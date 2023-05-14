@@ -39,9 +39,9 @@ Handing 8-bit and 16-bit in the tracker programs is not very easy.
 ---------------
 
 - [x] WIND\BRASS
-- [ ] EFFECTS\MECHANIC
-- [ ] ELECTRNC\GENERATD
+- [x] EFFECTS\MECHANIC
 - [ ] ELECTRNC\SYNTH
+- [ ] ELECTRNC\GENERATD
 - [ ] ~ MELODY
 - [ ] ~ WIND\FLUTE
   

@@ -19,11 +19,12 @@ Handing 8-bit and 16-bit in the tracker programs is not very easy.
     - [ ] 8: 8-bit
     - [ ] 16: 16-bit
     - [ ] S: stereo
-    - [ ] L: left channel
-    - [ ] R: right channel
-    - [ ] 01, 02, 03: numbering with a categoy
-    - [ ] X, Y: extra, yet to be numbered
-    - [ ] A, B, C: variations of the same instrument
+    - [ ] L: left 
+    - [ ] R: right
+    - [ ] C: chord
+    - [ ] 01, 02, 03: numbering within categoy
+    - [ ] X, Y: yet to be numbered
+    - [ ] A, B: variations
     - [ ] _ prefix against ambiguity (e.g. THING2_8)
 -  [ ] Formats:
     - [ ] .. IT sample

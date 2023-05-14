@@ -44,7 +44,7 @@ Handing 8-bit and 16-bit in the tracker programs is not very easy.
 - [x] EFFECTS\MECHANIC
 - [x] ELECTRNC\SYNTH
 - [x] ~~ELECTRNC\GENERATD~~
-- [ ] ~ WIND\FLUTE
+- [ ] .. WIND\FLUTE
 - [ ] ~ MELODY
 
 

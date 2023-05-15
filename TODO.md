@@ -52,7 +52,7 @@ Handing 8-bit and 16-bit in the tracker programs is not very easy.
     - [ ] .. Variations A, B, C instead of 1, 2, 3.
     - [ ] .. SB prefix removal
     - [ ] .. Renaming files:
-        - [ ] __WAS AT: ELECGUIT__
+        - [ ] __WAS AT: TALK__
     - [ ] Internal renames
 
 2023-05-14 Brainstorm Doubts

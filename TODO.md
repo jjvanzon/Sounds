@@ -48,11 +48,11 @@ Handing 8-bit and 16-bit in the tracker programs is not very easy.
     - [x] WIND\FLUTE
     - [x] MELODY
 - [ ] Naming:
+    - [x] SB prefix removal
     - [ ] .. Rename WAV's converting to IT.
     - [ ] .. Variations A, B, C instead of 1, 2, 3.
-    - [ ] .. SB prefix removal
-    - [ ] .. Renaming files:
-        - [ ] __WAS AT: TALK__
+    - [ ] ..Renaming files
+        - [ ] WAS AT: FX
     - [ ] Internal renames
 
 2023-05-14 Brainstorm Doubts

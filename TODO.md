@@ -54,7 +54,7 @@ Handing 8-bit and 16-bit in the tracker programs is not very easy.
     - [x] Variations A, B, C instead of 1, 2, 3.
     - [x] Renaming files
     - [ ] .. Internal renames
-        - [ ] WAT AT: HARP
+        - [ ] WAT AT: VIOLIN
         - [ ] ~ REDO: ELECGUIT
 
 

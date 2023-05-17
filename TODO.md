@@ -4,7 +4,8 @@ TODO
 <h2>Contents</h2>
 
 - [Main Outlines](#main-outlines)
-- [2023-05-14 TODO](#2023-05-14-todo)
+- [2023-05-18 TODO](#2023-05-18-todo)
+- [2023-05-14 Done](#2023-05-14-done)
 - [2023-05-14 Brainstorm Doubts](#2023-05-14-brainstorm-doubts)
 - [WAV conversion options](#wav-conversion-options)
 - [RAW to WAV Utility](#raw-to-wav-utility)
@@ -14,6 +15,7 @@ Main Outlines
 
 Handing 8-bit and 16-bit in the tracker programs is not very easy.
 
+- [x] Categorizing
 - [ ] .. Sensible names
 - [ ] .. Naming scheme (8-bit, 16-bit, mono, stereo)
     - [ ] 8: 8-bit
@@ -27,7 +29,7 @@ Handing 8-bit and 16-bit in the tracker programs is not very easy.
     - [ ] A, B: variations
     - [ ] _ prefix against ambiguity (e.g. THING2_8)
 -  [ ] Formats:
-    - [ ] .. IT sample
+    - [x] IT sample
     - [ ] ~ RAW
     - [ ] ~ WAV
     - [ ] ~ FT sample
@@ -36,31 +38,31 @@ Handing 8-bit and 16-bit in the tracker programs is not very easy.
     - [ ] ~ ST sample
     - [ ] ~ ST instrument
 
-
-2023-05-14 TODO
+2023-05-18 TODO
 ---------------
 
-- [x] Most rework needed:
-    - [x] WIND\BRASS
-    - [x] EFFECTS\MECHANIC
-    - [x] ELECTRNC\SYNTH
-    - [x] ~~ELECTRNC\GENERATD~~
-    - [x] WIND\FLUTE
-    - [x] MELODY
-- [ ] Naming:
+- [ ] Renaming XI files
+- [ ] Set loops
+- [ ] WAVEFORM: 
+    - [ ] Set vibrato
+    - [ ] Make instruments.
+
+2023-05-14 Done
+---------------
+
+- [x] Naming:
     - [x] SB prefix removal
     - [x] Recategorizing FX sounds.
     - [x] Rename WAV's converting to IT.
     - [x] Variations A, B, C instead of 1, 2, 3.
     - [x] Renaming files
-    - [ ] .. Internal renames
-        - [ ] WAT AT: SYNWIND, SING
+    - [x] Internal renames
 
 
 2023-05-14 Brainstorm Doubts
 ----------------------------
 
-Ambiguity between acoustic, synth and generated sounds of the same type of instrument. I guess the character of the sound matters.
+In case of ambiguity between acoustic, synth and generated sounds of the same type of instrument. I guess the character of the sound matters most.
 
 
 WAV conversion options

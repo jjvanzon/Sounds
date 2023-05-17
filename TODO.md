@@ -41,7 +41,9 @@ Handing 8-bit and 16-bit in the tracker programs is not very easy.
 2023-05-18 TODO
 ---------------
 
-- [ ] Renaming XI files
+- [ ] .. Renaming XI files
+    - [ ] (Loading them using Impulse Tracker Instruments.)
+    - [ ] WAS AT: HIHAT
 - [ ] Set loops
 - [ ] WAVEFORM: 
     - [ ] Set vibrato

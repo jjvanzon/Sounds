@@ -49,12 +49,13 @@ Handing 8-bit and 16-bit in the tracker programs is not very easy.
     - [x] MELODY
 - [ ] Naming:
     - [x] SB prefix removal
-    - [ ] .. Rename WAV's converting to IT.
-    - [ ] .. Variations A, B, C instead of 1, 2, 3.
-    - [ ] .. Renaming files
-        - [ ] WAS AT: FX
-        - [ ] .. Recategorizing some FX sounds.
-    - [ ] Internal renames
+    - [x] Recategorizing FX sounds.
+    - [x] Rename WAV's converting to IT.
+    - [x] Variations A, B, C instead of 1, 2, 3.
+    - [x] Renaming files
+    - [ ] .. Internal renames
+        - [ ] WAT AT: HARP
+        - [ ] ~ REDO: ELECGUIT
 
 
 2023-05-14 Brainstorm Doubts

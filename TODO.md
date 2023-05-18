@@ -27,6 +27,7 @@ Handing 8-bit and 16-bit in the tracker programs is not very easy.
     - [ ] 01, 02, 03: numbering within categoy
     - [ ] X, Y: yet to be numbered
     - [ ] A, B: variations
+    - [ ] ' : suffix meaning 'almost the same sound'
     - [ ] _ prefix against ambiguity (e.g. THING2_8)
 -  [ ] Formats:
     - [x] IT sample

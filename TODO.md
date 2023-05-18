@@ -43,7 +43,7 @@ Handing 8-bit and 16-bit in the tracker programs is not very easy.
 
 - [ ] .. Renaming XI files
     - [ ] (Loading them using Impulse Tracker Instruments.)
-    - [ ] WAS AT: HIHAT
+    - [ ] WAS AT: SNARE
 - [ ] Set loops
 - [ ] WAVEFORM: 
     - [ ] Set vibrato

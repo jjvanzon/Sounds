@@ -56,7 +56,8 @@ Side Issues
 - [x] Renaming XI files
     - [x] (Loading them using Impulse Tracker Instruments to inspect.)
 - [ ] WAVEFORM: 
-    - [ ] Set loops
+    - [ ] WAS AT: WVF1_8.ITS
+    - [ ] .. Set loops
     - [ ] Set vibrato
     - [ ] Make instruments
 - [ ] Set more loops

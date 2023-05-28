@@ -42,13 +42,14 @@ Handing 8-bit and 16-bit in the tracker programs is not very easy.
 2023-05-18 TODO
 ---------------
 
-- [ ] .. Renaming XI files
-    - [ ] (Loading them using Impulse Tracker Instruments.)
-    - [ ] __WAS AT: ELECGUIT__
-- [ ] Set loops
+- [x]  Renaming XI files
+    - [x] (Loading them using Impulse Tracker Instruments to inspect.)
 - [ ] WAVEFORM: 
+    - [ ] Set loops
     - [ ] Set vibrato
     - [ ] Make instruments.
+- [ ] Set more loops
+- [ ] Tune?
 
 2023-05-14 Done
 ---------------

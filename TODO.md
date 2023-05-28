@@ -6,7 +6,7 @@ TODO
 - [Main Outlines](#main-outlines)
 - [Side Issues](#side-issues)
 - [2023-05-18 TODO](#2023-05-18-todo)
-- [2023-05-14 Done](#2023-05-14-done)
+- [2023-05-14 Done Naming](#2023-05-14-done-naming)
 - [2023-05-14 Brainstorm Doubts](#2023-05-14-brainstorm-doubts)
 - [WAV conversion options](#wav-conversion-options)
 - [RAW to WAV Utility](#raw-to-wav-utility)
@@ -53,32 +53,31 @@ Side Issues
 2023-05-18 TODO
 ---------------
 
-- [x] Renaming XI files
-    - [x] (Loading them using Impulse Tracker Instruments to inspect.)
 - [ ] WAVEFORM: 
-    - [ ] WAS AT: WVF1_8.ITS
-    - [ ] .. Set loops
+    - [x] Set loops
     - [ ] Set vibrato
     - [ ] Make instruments
 - [ ] Set more loops
 - [ ] Tune?
 
-2023-05-14 Done
----------------
 
-- [x] Naming:
-    - [x] SB prefix removal
-    - [x] Recategorizing FX sounds.
-    - [x] Rename WAV's converting to IT.
-    - [x] Variations A, B, C instead of 1, 2, 3.
-    - [x] Renaming files
-    - [x] Internal renames
+2023-05-14 Done Naming
+----------------------
+
+- [x] SB prefix removal
+- [x] Recategorizing FX sounds.
+- [x] Rename WAV's converting to IT.
+- [x] Variations A, B, C instead of 1, 2, 3.
+- [x] Renaming files
+- [x] Internal renames
+- [x] Renaming XI files
+    - [x] (Loading them using Impulse Tracker Instruments to inspect.)
 
 
 2023-05-14 Brainstorm Doubts
 ----------------------------
 
-In case of ambiguity between acoustic, synth and generated sounds of the same type of instrument. I guess the character of the sound matters most.
+In case of ambiguity between acoustic, synth and generated sounds of the same type of instrument. I guess the character of the sound is what matters most.
 
 
 WAV conversion options

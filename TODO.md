@@ -4,6 +4,7 @@ TODO
 <h2>Contents</h2>
 
 - [Main Outlines](#main-outlines)
+- [Side Issues](#side-issues)
 - [2023-05-18 TODO](#2023-05-18-todo)
 - [2023-05-14 Done](#2023-05-14-done)
 - [2023-05-14 Brainstorm Doubts](#2023-05-14-brainstorm-doubts)
@@ -39,10 +40,20 @@ Handing 8-bit and 16-bit in the tracker programs is not very easy.
     - [ ] ~ ST sample
     - [ ] ~ ST instrument
 
+
+Side Issues
+-----------
+
+- [ ] Loops
+- [ ] Vibrato / effects
+- [ ] Samples => instruments
+- [ ] Tuning
+
+
 2023-05-18 TODO
 ---------------
 
-- [x]  Renaming XI files
+- [x] Renaming XI files
     - [x] (Loading them using Impulse Tracker Instruments to inspect.)
 - [ ] WAVEFORM: 
     - [ ] Set loops

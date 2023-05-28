@@ -55,8 +55,9 @@ Side Issues
 
 - [ ] WAVEFORM: 
     - [x] Set loops
-    - [ ] Set vibrato
     - [ ] Make instruments
+        - [ ] WAS AT: ADD08_16
+    - [ ] Set vibrato
 - [ ] Set more loops
 - [ ] Tune?
 

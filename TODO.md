@@ -57,8 +57,8 @@ Side Issues
     - [x] Set loops
     - [x] Make instruments
 - [ ] 16-bit SB sounds:
-    - [ ] __WAS AT: ETNOGUIT__
-    - [ ] (Ones poorly usable without it.)
+    - [ ] __WAS AT: HARP__
+    - [ ] (Ones poorly usable without modification.)
     - [ ] Set loops
     - [ ] Set vibrato
     - [ ] Make instruments

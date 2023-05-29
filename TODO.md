@@ -57,8 +57,8 @@ Side Issues
     - [x] Set loops
     - [x] Make instruments
 - [ ] 16-bit SB sounds:
-    - [ ] __WAS AT: BASSGUIT__
-    - [ ] (Ones unusable without this modification.)
+    - [ ] __WAS AT: CELLO__
+    - [ ] (Ones unusable without modification.)
     - [ ] Set loops
     - [ ] Set vibrato
     - [ ] Make instruments

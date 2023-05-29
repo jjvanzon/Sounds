@@ -32,11 +32,11 @@ Handing 8-bit and 16-bit in the tracker programs is not very easy.
     - [ ] _ prefix against ambiguity (e.g. THING2_8)
 -  [ ] Formats:
     - [x] IT sample
+    - [ ] .. IT instrument
     - [ ] ~ RAW
     - [ ] ~ WAV
     - [ ] ~ FT sample
     - [ ] ~ FT instrument
-    - [ ] ~ IT instrument
     - [ ] ~ ST sample
     - [ ] ~ ST instrument
 
@@ -53,12 +53,23 @@ Side Issues
 2023-05-18 TODO
 ---------------
 
-- [ ] WAVEFORM: 
+- [x] WAVEFORM: 
     - [x] Set loops
-    - [ ] Make instruments
-        - [ ] WAS AT: SIN18
+    - [x] Make instruments
+- [ ] 16-bit SB sounds:
+    - [ ] __WAS AT: BASSGUIT__
+    - [ ] (Ones unusable without this modification.)
+    - [ ] Set loops
     - [ ] Set vibrato
+    - [ ] Make instruments
+- [ ] 16-bit raw:
+    - [ ] Poorly usable now (in Impulse Tracker for instance)
+    - [ ] Convert to WAV
+    - [ ] Set names
+    - [ ] Make IT files
+- [ ] Make wave tables (in IT?
 - [ ] Set more loops
+- [ ] Set more vibrato ?
 - [ ] Tune?
 
 

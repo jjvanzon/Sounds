@@ -57,7 +57,7 @@ Side Issues
     - [x] Set loops
     - [x] Make instruments
 - [ ] 16-bit SB sounds:
-    - [ ] __WAS AT: CONTRBAS__
+    - [ ] __WAS AT: EG21C_16__
     - [ ] (Ones unusable without modification.)
     - [ ] Set loops
     - [ ] Set vibrato

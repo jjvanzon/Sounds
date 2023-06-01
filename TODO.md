@@ -56,9 +56,9 @@ Side Issues
 - [x] WAVEFORM: 
     - [x] Set loops
     - [x] Make instruments
-- [ ] 16-bit SB sounds:
-    - [ ] __WAS AT: HARP__
+- [ ] Short (16-bit SB) sounds:
     - [ ] (Ones poorly usable without modification.)
+    - [ ] __WAS AT: SYNBEEP__
     - [ ] Set loops
     - [ ] Set vibrato
     - [ ] Make instruments
@@ -68,8 +68,8 @@ Side Issues
     - [ ] Set names
     - [ ] Make IT files
 - [ ] Make wave tables (in IT?
-- [ ] Set more loops
-- [ ] Set more vibrato ?
+- [ ] More loops ?
+- [ ] More vibrato ?
 - [ ] Tune?
 
 

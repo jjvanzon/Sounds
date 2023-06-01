@@ -58,7 +58,7 @@ Side Issues
     - [x] Make instruments
 - [ ] Short (16-bit SB) sounds:
     - [ ] (Ones poorly usable without modification.)
-    - [ ] __WAS AT: SYNBRASS__
+    - [ ] __WAS AT: SYNORGAN__
     - [ ] Set loops
     - [ ] Set vibrato
     - [ ] Make instruments

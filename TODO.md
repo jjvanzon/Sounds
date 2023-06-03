@@ -67,10 +67,10 @@ Side Issues
     - [ ] Convert to WAV
     - [ ] Set names
     - [ ] Make IT files
-- [ ] Make wave tables (in IT?
+- [ ] Make wave tables (in IT) ?
 - [ ] More loops ?
 - [ ] More vibrato ?
-- [ ] Tune?
+- [ ] Tune ?
 
 
 2023-05-14 Done Naming
@@ -89,7 +89,7 @@ Side Issues
 2023-05-14 Brainstorm Doubts
 ----------------------------
 
-In case of ambiguity between acoustic, synth and generated sounds of the same type of instrument. I guess the character of the sound is what matters most.
+In case of ambiguity between acoustic, synth and generated sounds of the same type of instrument: I guess the character of the sound is what matters most.
 
 
 WAV conversion options

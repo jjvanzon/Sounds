@@ -58,10 +58,9 @@ Side Issues
     - [x] Make instruments
 - [ ] Short (16-bit SB) sounds:
     - [ ] (Ones poorly usable without modification.)
-    - [ ] __WAS AT: SYNORGAN__
-    - [ ] Set loops
-    - [ ] Set vibrato
-    - [ ] Make instruments
+    - [x] Set loops
+    - [x] Set vibrato
+    - [ ] .. Make instruments
 - [ ] 16-bit raw:
     - [ ] Poorly usable now (in Impulse Tracker for instance)
     - [ ] Convert to WAV

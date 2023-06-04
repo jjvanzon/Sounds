@@ -61,7 +61,7 @@ Side Issues
     - [x] Set loops
     - [x] Set vibrato
     - [ ] .. Make instruments
-    - [ ] __WAS AT: VOICE (going up)__
+    - [ ] __WAS AT: SYNWIND (going up)__
 - [ ] 16-bit raw:
     - [ ] Poorly usable now (in Impulse Tracker for instance)
     - [ ] Convert to WAV
@@ -71,6 +71,7 @@ Side Issues
 - [ ] More loops ?
 - [ ] More vibrato ?
 - [ ] Tune ?
+- [ ] Improve loops ?
 
 
 2023-05-14 Done Naming

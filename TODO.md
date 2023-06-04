@@ -61,7 +61,8 @@ Side Issues
     - [x] Set loops
     - [x] Set vibrato
     - [ ] .. Make instruments
-    - [ ] __WAS AT: SYNORGAN (going up)__
+    - [ ] __WAS AT: SYNBRASS (going up)__
+        - [ ] Clashes with SYNSTRNG
 - [ ] 16-bit raw:
     - [ ] Poorly usable now (in Impulse Tracker for instance)
     - [ ] Convert to WAV

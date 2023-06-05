@@ -33,8 +33,8 @@ Handing 8-bit and 16-bit in the tracker programs is not very easy.
 -  [ ] Formats:
     - [x] IT sample
     - [ ] .. IT instrument
-    - [ ] ~ RAW
-    - [ ] ~ WAV
+    - [ ] RAW
+    - [ ] WAV
     - [ ] ~ FT sample
     - [ ] ~ FT instrument
     - [ ] ~ ST sample
@@ -61,8 +61,7 @@ Side Issues
     - [x] Set loops
     - [x] Set vibrato
     - [ ] .. Make instruments
-    - [ ] __WAS AT: SYNBRASS (going up)__
-        - [ ] Clashes with SYNSTRNG
+    - [ ] __WAS AT: ELECGUIT (going up)__
 - [ ] 16-bit raw:
     - [ ] Poorly usable now (in Impulse Tracker for instance)
     - [ ] Convert to WAV

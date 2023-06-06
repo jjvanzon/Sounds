@@ -61,7 +61,7 @@ Side Issues
     - [x] Set loops
     - [x] Set vibrato
     - [ ] .. Make instruments
-    - [ ] __WAS AT: ALTVIO (going up)__
+    - [ ] __WAS AT: PIANO (going up)__
         - [ ] Renumber?
 - [ ] 16-bit raw:
     - [ ] Poorly usable now (in Impulse Tracker for instance)

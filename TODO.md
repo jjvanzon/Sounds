@@ -55,12 +55,12 @@ Side Issues
 - [x] WAVEFORM: 
     - [x] Set loops
     - [x] Make instruments
-- [ ] Short (16-bit SB) sounds:
+- [ ] Abrupt ending sounds:
     - [ ] (Ones poorly usable without modification.)
     - [x] Set loops
     - [x] Set vibrato
     - [ ] .. Make instruments
-    - [ ] __WAS AT: SN18 (going up)__
+    - [ ] __WAS AT: SN53 (going up)__
 - [ ] 16-bit raw:
     - [ ] Poorly usable now (in Impulse Tracker for instance)
     - [ ] Convert to WAV

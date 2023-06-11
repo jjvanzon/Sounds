@@ -60,15 +60,16 @@ Side Issues
     - [x] Set loops
     - [x] Set vibrato
     - [ ] .. Make instruments
-    - [ ] __WAS AT: TIMPANY (going up)__
+    - [ ] __WAS AT: SN18 (going up)__
 - [ ] 16-bit raw:
     - [ ] Poorly usable now (in Impulse Tracker for instance)
     - [ ] Convert to WAV
     - [ ] Set names
     - [ ] Make IT files
-- [ ] Make wave tables (in IT) ?
 - [ ] More loops ?
 - [ ] More vibrato ?
+- [ ] More instruments ?
+- [ ] Make wave tables (in IT) ?
 - [ ] Tune ?
 - [ ] Improve loops ?
 

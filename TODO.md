@@ -61,6 +61,7 @@ Side Issues
     - [x] Set vibrato
     - [ ] .. Make instruments
     - [ ] __WAS AT: HI23 (going up)__
+    - [ ] Skipped: BELL
 - [ ] 16-bit raw:
     - [ ] Poorly usable now (in Impulse Tracker for instance)
     - [ ] Convert to WAV

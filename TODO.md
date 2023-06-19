@@ -46,6 +46,7 @@ Side Issues
 - [ ] Loops
 - [ ] Vibrato / effects
 - [ ] Samples => instruments
+- [ ] Remove excessive headers
 - [ ] Tuning
 
 
@@ -55,12 +56,11 @@ Side Issues
 - [x] WAVEFORM: 
     - [x] Set loops
     - [x] Make instruments
-- [ ] Abrupt ending sounds:
-    - [ ] (Ones poorly usable without modification.)
+- [ ] Abruptly endings:
     - [x] Set loops
     - [x] Set vibrato
     - [ ] .. Make instruments
-    - [ ] __WAS AT: HI23 (going up)__
+    - [ ] __WAS AT: CLAP (going up)__
     - [ ] Skipped: BELL
 - [ ] 16-bit raw:
     - [ ] Poorly usable now (in Impulse Tracker for instance)

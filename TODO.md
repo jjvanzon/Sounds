@@ -60,7 +60,7 @@ Side Issues
     - [x] Set loops
     - [x] Set vibrato
     - [ ] .. Make instruments
-    - [ ] __WAS AT: CLAP (going up)__
+    - [ ] __WAS AT: BASSDRUM (going up)__
     - [ ] Skipped: BELL
 - [ ] 16-bit raw:
     - [ ] Poorly usable now (in Impulse Tracker for instance)

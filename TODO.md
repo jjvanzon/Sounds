@@ -16,19 +16,20 @@ Main Outlines
 Handing 8-bit and 16-bit in the tracker programs is not very easy.
 
 - [x] Categorizing
-- [ ] .. Sensible names
-- [ ] .. Naming scheme (8-bit, 16-bit, mono, stereo)
-    - [ ] 8: 8-bit
-    - [ ] 16: 16-bit
-    - [ ] S: stereo
-    - [ ] L: left 
-    - [ ] R: right
-    - [ ] C: chord
-    - [ ] 01, 02, 03: numbering within categoy
-    - [ ] X, Y: yet to be numbered
-    - [ ] A, B: variations
-    - [ ] ' : suffix meaning 'almost the same sound'
-    - [ ] _ prefix against ambiguity (e.g. THING2_8)
+- [x] Sensible names
+- [x] Naming scheme (8-bit, 16-bit, mono, stereo)
+    - [x] 8: 8-bit
+    - [x] 16: 16-bit
+    - [x] S: stereo
+    - [x] L: left 
+    - [x] R: right
+    - [x] C: chord
+    - [x] 01, 02, 03: numbering within categoy
+    - [x] X, Y: yet to be numbered
+    - [x] A, B: variations
+    - [x] ' : suffix meaning 'almost the same sound'
+    - [x] ` : another alternative of 'almost the same sound'
+    - [x] _ prefix against ambiguity (e.g. THING2_8)
 -  [ ] Formats:
     - [x] IT sample
     - [ ] .. IT instrument
@@ -60,8 +61,9 @@ Side Issues
     - [x] Set loops
     - [x] Set vibrato
     - [ ] .. Make instruments
-    - [ ] __WAS AT: BASSDRUM (going up)__
-    - [ ] Skipped: BELL
+    - [ ] __WAS AT: BD_K8 (going up)__
+    - [ ] BELL was skipped
+    - [ ] SNARE sub-categories.
 - [ ] 16-bit raw:
     - [ ] Poorly usable now (in Impulse Tracker for instance)
     - [ ] Convert to WAV

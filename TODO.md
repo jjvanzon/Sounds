@@ -61,7 +61,7 @@ Side Issues
     - [x] Set loops
     - [x] Set vibrato
     - [ ] .. Make instruments
-    - [ ] __WAS AT: BD_K8 (going up)__
+    - [ ] __WAS AT: BD_S3 (going up)__
     - [ ] BELL was skipped
     - [ ] SNARE sub-categories.
 - [ ] 16-bit raw:

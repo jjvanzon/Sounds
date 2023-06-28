@@ -61,8 +61,7 @@ Side Issues
     - [x] Set loops
     - [x] Set vibrato
     - [ ] .. Make instruments
-    - [ ] __WAS AT: BD_T4 (going up)__
-    - [ ] BELL was skipped
+    - [ ] __BELL was skipped.__
     - [ ] SNARE sub-categories.
 - [ ] 16-bit raw:
     - [ ] Poorly usable now (in Impulse Tracker for instance)

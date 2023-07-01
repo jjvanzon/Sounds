@@ -60,9 +60,9 @@ Side Issues
 - [ ] Abruptly endings:
     - [x] Set loops
     - [x] Set vibrato
-    - [ ] .. Make instruments
-    - [ ] __BELL was skipped.__
-    - [ ] SNARE sub-categories.
+    - [x] Make instruments
+    - [x] BELL was skipped.
+    - [ ] __SNARE sub-categories.__
 - [ ] 16-bit raw:
     - [ ] Poorly usable now (in Impulse Tracker for instance)
     - [ ] Convert to WAV

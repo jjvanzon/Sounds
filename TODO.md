@@ -63,6 +63,7 @@ Side Issues
     - [x] Make instruments
     - [x] BELL was skipped.
     - [ ] __SNARE sub-categories.__
+        - [ ] Check instruments
 - [ ] 16-bit raw:
     - [ ] Poorly usable now (in Impulse Tracker for instance)
     - [ ] Convert to WAV

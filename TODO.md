@@ -57,18 +57,19 @@ Side Issues
 - [x] WAVEFORM: 
     - [x] Set loops
     - [x] Make instruments
-- [ ] Abruptly endings:
+- [x] Abruptly endings:
     - [x] Set loops
     - [x] Set vibrato
     - [x] Make instruments
     - [x] BELL was skipped.
-    - [ ] __SNARE sub-categories.__
-        - [ ] Check instruments
+    - [x] SNARE sub-categories.
 - [ ] 16-bit raw:
     - [ ] Poorly usable now (in Impulse Tracker for instance)
     - [ ] Convert to WAV
     - [ ] Set names
     - [ ] Make IT files
+    - [ ] BASSDRUM\VG_009.RAW is a bit of a mystery.
+    - [ ] __WAS AT: SNARE__
 - [ ] More loops ?
 - [ ] More vibrato ?
 - [ ] More instruments ?

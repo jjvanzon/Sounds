@@ -66,10 +66,10 @@ Side Issues
 - [ ] 16-bit raw:
     - [ ] Poorly usable now (in Impulse Tracker for instance)
     - [ ] Convert to WAV
-    - [ ] Set names
     - [ ] Make IT files
-    - [ ] BASSDRUM\VG_009.RAW is a bit of a mystery.
-    - [ ] __WAS AT: SNARE__
+    - [ ] Skipped: Set names
+    - [ ] Skipped: BASSDRUM\VG_009.RAW: is a bit of a mystery.
+    - [ ] __WAS AT: NOCAT__
 - [ ] More loops ?
 - [ ] More vibrato ?
 - [ ] More instruments ?

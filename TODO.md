@@ -67,9 +67,9 @@ Side Issues
     - [ ] Poorly usable now (in Impulse Tracker for instance)
     - [ ] Convert to WAV
     - [ ] Make IT files
-    - [ ] Skipped: Set names
+    - [ ] __WAS AT: WAVEFORM__
+    - [ ] Skipped: name, category, loops, envelopes, instruments
     - [ ] Skipped: BASSDRUM\VG_009.RAW: is a bit of a mystery.
-    - [ ] __WAS AT: SYNBEEP__
 - [ ] More loops ?
 - [ ] More vibrato ?
 - [ ] More instruments ?

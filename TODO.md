@@ -69,7 +69,7 @@ Side Issues
     - [ ] Make IT files
     - [ ] Skipped: Set names
     - [ ] Skipped: BASSDRUM\VG_009.RAW: is a bit of a mystery.
-    - [ ] __WAS AT: NOCAT__
+    - [ ] __WAS AT: SYNBEEP__
 - [ ] More loops ?
 - [ ] More vibrato ?
 - [ ] More instruments ?

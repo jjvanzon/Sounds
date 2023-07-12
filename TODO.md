@@ -8,7 +8,7 @@ TODO
 - [2023-05-18 TODO](#2023-05-18-todo)
 - [2023-05-14 Brainstorm Doubts](#2023-05-14-brainstorm-doubts)
 - [WAV conversion options](#wav-conversion-options)
-- [RAW to WAV Utility](#raw-to-wav-utility)
+- [Programming RAW to WAV Utility](#programming-raw-to-wav-utility)
 
 Main Outlines
 -------------
@@ -66,13 +66,13 @@ Side Issues
 - [ ] 16-bit raw:
     - [x] Poorly usable now (in Impulse Tracker for instance)
     - [x] Convert to WAV
-    - [ ] __WAS AT: GENERATD__
+    - [ ] __WAS AT: WAVEFORM__
     - [ ] Make ITS files
     - [ ] Name, categorize, loops, envelopes, instruments
     - [ ] Skipped: BASSDRUM\VG_009.RAW: is a bit of a mystery.
+- [ ] More instruments (ITS) ?
 - [ ] More loops ?
 - [ ] More vibrato ?
-- [ ] More instruments ?
 - [ ] Make wave tables (in IT) ?
 - [ ] Tune ?
 - [ ] Improve loops ?
@@ -100,8 +100,8 @@ WAV conversion options
     - Downside: Programming. Lots of decisions about tiny details might overwhelm me.
 
 
-RAW to WAV Utility
-------------------
+Programming RAW to WAV Utility
+------------------------------
 
 Options:
 

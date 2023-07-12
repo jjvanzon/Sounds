@@ -64,11 +64,10 @@ Side Issues
     - [x] BELL was skipped.
     - [x] SNARE sub-categories.
 - [ ] 16-bit raw:
-    - [ ] Poorly usable now (in Impulse Tracker for instance)
-    - [ ] Convert to WAV
-    - [ ] Make IT files
-    - [ ] __WAS AT: WAVEFORM__
-    - [ ] Skipped: name, category, loops, envelopes, instruments
+    - [x] Poorly usable now (in Impulse Tracker for instance)
+    - [x] Convert to WAV
+    - [ ] Make ITS files
+    - [ ] Name, categorize, loops, envelopes, instruments
     - [ ] Skipped: BASSDRUM\VG_009.RAW: is a bit of a mystery.
 - [ ] More loops ?
 - [ ] More vibrato ?

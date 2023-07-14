@@ -66,7 +66,7 @@ Side Issues
 - [ ] 16-bit raw:
     - [x] Poorly usable now (in Impulse Tracker for instance)
     - [x] Convert to WAV
-    - [ ] __WAS AT: WAVEFORM__
+    - [ ] __WAS AT: WAVEFORM\NOI*__
     - [ ] Make ITS files
     - [ ] Name, categorize, loops, envelopes, instruments
     - [ ] Skipped: BASSDRUM\VG_009.RAW: is a bit of a mystery.

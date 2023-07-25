@@ -67,7 +67,7 @@ Side Issues
     - [x] Poorly usable now (in Impulse Tracker for instance)
     - [x] Convert to WAV
     - [ ] __WAS AT: WAVEFORM__
-        - [ ] Centralize samples WAS AT: SIMP7
+        - [ ] Centralize samples WAS AT: SIN
     - [ ] ... Name, categorize, loops, envelopes, instruments
     - [ ] Skipped: BASSDRUM\VG_009.RAW: is a bit of a mystery.
 - [ ] More instruments (ITS) ?

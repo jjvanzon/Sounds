@@ -63,20 +63,18 @@ Side Issues
     - [x] Make instruments
     - [x] BELL was skipped.
     - [x] SNARE sub-categories.
-- [ ] 16-bit raw:
+- [x] 16-bit raw:
     - [x] Poorly usable now (in Impulse Tracker for instance)
     - [x] Convert to WAV
-    - [ ] __WAS AT: WAVEFORM__
-        - [ ] Centralize samples WAS AT: SIN
-    - [ ] ... Name, categorize, loops, envelopes, instruments
-    - [ ] Skipped: BASSDRUM\VG_009.RAW: is a bit of a mystery.
+    - [x] Name, categorize, loops, envelopes, instruments
+    - [x] Skipped: BASSDRUM\VG_009.RAW: is a bit of a mystery.
+- [ ] Distribute WAVEFORM and GENERATD over other categories ?
 - [ ] More instruments (ITS) ?
 - [ ] More loops ?
 - [ ] More vibrato ?
 - [ ] Make wave tables (in IT) ?
 - [ ] Tune ?
 - [ ] Improve loops ?
-- [ ] Distribute WAVEFORM and GENERATD over other categories ?
 
 
 2023-05-14 Brainstorm Doubts
